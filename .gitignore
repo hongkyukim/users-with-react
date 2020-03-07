@@ -1,0 +1,4 @@
+*.sw[op]
+node_modules
+api/node_modules
+react/node_modules
